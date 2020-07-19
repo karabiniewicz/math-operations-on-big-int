@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\AiSD\Lab_5 sieci\main.cpp(31,34): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\AiSD\Lab_5 sieci\main.cpp(31,55): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\AiSD\Lab_5 sieci\main.cpp(32,10): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\AiSD\Lab_5 sieci\main.cpp(35,10): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\AiSD\Lab_5 sieci\main.cpp(50,42): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Lab_5 sieci.vcxproj -> D:\AiSD\Lab_5 sieci\Debug\Lab_5 sieci.exe

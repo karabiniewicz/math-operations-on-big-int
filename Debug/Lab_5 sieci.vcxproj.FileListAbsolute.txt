@@ -1,0 +1,2 @@
+D:\AiSD\Lab_5 sieci\Debug\Lab_5 sieci.exe
+D:\AiSD\Lab_5 sieci\Debug\Lab_5 sieci.pdb
